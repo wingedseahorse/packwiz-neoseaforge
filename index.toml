@@ -494,11 +494,6 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "fb9911c9e168327533f7a24a42ed246ffff4af494c9b084098a9805788e2f127"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "191cdd445cf61e467693ff8c91732ef0a7b43222e22d77f1fa68b06bfa10aac2"
 metafile = true
