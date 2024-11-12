@@ -9,6 +9,78 @@ file = "gitignore.txt"
 hash = "5101efd5b281b5be75ffeca4230e129a32eed9dd41d0b190e21c0ce2a46e7c54"
 
 [[files]]
+file = "global_packs/required_data/afk display v1.1.9 (MC 1.21-1.21.3).zip"
+hash = "ebddac458d58344f559882637b1f7f4818a568ee3e3053bbf9b99898cc713a07"
+
+[[files]]
+file = "global_packs/required_data/anti ghast grief v1.1.9 (MC 1.21-1.21.3).zip"
+hash = "06c9f415582d8fd1b3f51532727b2929070c440589453e3573655bdc5d7d1e60"
+
+[[files]]
+file = "global_packs/required_data/back v1.3.9 (MC 1.21-1.21.3).zip"
+hash = "ff4778ca8abb8baf0ca5edab1551eddfbb659e0f913d5eee918d620a7c02e7f4"
+
+[[files]]
+file = "global_packs/required_data/cauldron concrete v3.0.2 (MC 1.21-1.21.3).zip"
+hash = "32ca792be71da43865a99e5312e26eda61a15d2337b540f7dfab1a88c0558f2e"
+
+[[files]]
+file = "global_packs/required_data/cauldron mud v1.0.2 (MC 1.21-1.21.3).zip"
+hash = "d2c5ce9fbce060e6b89fcce3c57a97e418c9c6db38a4514cc7eec8782f46d4b1"
+
+[[files]]
+file = "global_packs/required_data/chunk loaders v1.0.10 (MC 1.21-1.21.3).zip"
+hash = "c8839f814954bfb2f664b1af9c284a566c390071cdceabe96ff1568393979e31"
+
+[[files]]
+file = "global_packs/required_data/double shulker shells v1.3.9 (MC 1.21-1.21.3).zip"
+hash = "885dfd54dd06b7a3f5ca4c1df900ef6d4bbebb208d2c9401c0cd84b58394eb32"
+
+[[files]]
+file = "global_packs/required_data/dragon drops v1.3.9 (MC 1.21-1.21.3).zip"
+hash = "4b914fb63d9d73604fc9760ee3f9ac01fb2123bd2ce4fd705764df0fe232be34"
+
+[[files]]
+file = "global_packs/required_data/ender chest always drops v1.0.1 (MC 1.21-1.21.3).zip"
+hash = "b1fe9c4f96b29b01c439072f57f689283d4f868a38cb70328e32a30b546a9395"
+
+[[files]]
+file = "global_packs/required_data/homes v1.5.11 (MC 1.21-1.21.3).zip"
+hash = "fc11d90dd7ddf597ca9d64e7dcca7d33651b7a1d396326efb6558241fcf2d1a8"
+
+[[files]]
+file = "global_packs/required_data/kill empty boats v1.1.10 (MC 1.21-1.21.3).zip"
+hash = "ccac185b87932d35b65f32dc1d9b9deedbacc527cd7c9c01abf8db3c34363ef8"
+
+[[files]]
+file = "global_packs/required_data/silence mobs v1.2.3 (MC 1.21-1.21.3).zip"
+hash = "0944eb5ae4d56aabd96450da030b5c8988ad6b65e9e4b55b4ef3691811d5e3ab"
+
+[[files]]
+file = "global_packs/required_data/silk touch budding amethyst v1.0.1 (MC 1.21-1.21.3).zip"
+hash = "2703d14745415f4d28c5c5b547567823630bc60f3ca9fd7e09bb1a259c9fd664"
+
+[[files]]
+file = "global_packs/required_data/spawn v2.3.9 (MC 1.21-1.21.3).zip"
+hash = "d81958d36cb00c648f6eca32923aea3f5b987a7c7dd1f3901c521ff9a39353f4"
+
+[[files]]
+file = "global_packs/required_data/tpa v2.3.9 (MC 1.21-1.21.3).zip"
+hash = "789d7c3a78e7a2eaf0d951e236e6e7f6c6e94e3a479fedfa9654385fb9b53e7c"
+
+[[files]]
+file = "global_packs/required_data/track raw statistics v1.7.5 (MC 1.21-1.21.3).zip"
+hash = "f2e8321a275ce793cf7a5deec0267f15081d273db9e463b72c9c4435396dab35"
+
+[[files]]
+file = "global_packs/required_data/track statistics v1.1.11 (MC 1.21-1.21.3).zip"
+hash = "5230961706e3cb93cdbea9f1a02f613acf74a83ca50abca2b749bc213d33c4e6"
+
+[[files]]
+file = "global_packs/required_data/wandering trades v1.7.7 (MC 1.21-1.21.3).zip"
+hash = "d85fb354e97cb6058b95fc528e308ea5c0d7f70b61803d0fbf9b8d87f6295fab"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
 metafile = true
@@ -455,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/rabbit-pathfinding-fix-neoforge.pw.toml"
-hash = "38d8aa88581b9bcc3ebb4255aa5e1fac2bc6bb884406e6ebb2d531044d672c36"
+hash = "52906b540719c299877980b7c7e1ba0e7ba5145e53386e9cba1be6787a7f55b0"
 metafile = true
 
 [[files]]
