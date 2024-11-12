@@ -29,6 +29,11 @@ hash = "14f2cc8d38e21da9228e6af092b9db79690d78a1054f1e30d5a2e0e3499fd961"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "04dbaa565720c45dbbf9d6ed3f1c4df9ff641ec13503b91e9206d7d93c8fe89a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
@@ -541,6 +546,16 @@ metafile = true
 [[files]]
 file = "mods/surface-mushrooms.pw.toml"
 hash = "6edc69d7a5b3a4ec1250e91f67609e11fd2f950a53c94275a507ed7d6b419f5c"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "6505d339ca50473ec9d07849013d3da94b0b52f03ad5b851349262aa8ae312f0"
+metafile = true
+
+[[files]]
+file = "mods/surveystones.pw.toml"
+hash = "a195d1cb6b5643cf1514b637169a2e779201e09d8fd9dc5da3bd78c53c8176ec"
 metafile = true
 
 [[files]]
