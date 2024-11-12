@@ -1,6 +1,6 @@
 name = "Rabbit Pathfinding Fix - NeoForge"
 filename = "rabbit_pathfinding_fix-1.0.2-SNAPSHOT.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qRtpaUs5/versions/LOkjvLtO/rabbit_pathfinding_fix-1.0.2-SNAPSHOT.jar"
