@@ -1,0 +1,13 @@
+name = "Rabbit Pathfinding Fix - NeoForge"
+filename = "rabbit_pathfinding_fix-1.0.2-SNAPSHOT.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qRtpaUs5/versions/LOkjvLtO/rabbit_pathfinding_fix-1.0.2-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "8aacf882bf3dbd1281f5ff6f84e8d451b550fec92c0ae5bd336f71389009630505074b74652dc5c1e87faacf579a864ea95eb55bf1cb58c343025009bd94dc8f"
+
+[update]
+[update.modrinth]
+mod-id = "qRtpaUs5"
+version = "LOkjvLtO"

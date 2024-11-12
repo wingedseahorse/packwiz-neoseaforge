@@ -1,0 +1,13 @@
+name = "Just Hammers"
+filename = "just-hammers-neoforge-21.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/edU0NbZZ/versions/tx7pcJuS/just-hammers-neoforge-21.0.3.jar"
+hash-format = "sha512"
+hash = "958bfbfea852b4da88e901b6e7e31f08f3a8e0c1610feb460f3ddfde0f0a2fafd9482d84775eb69e0c26bf25497cc0eb7fc9b78d85c6f7132bfaf28090cba821"
+
+[update]
+[update.modrinth]
+mod-id = "edU0NbZZ"
+version = "tx7pcJuS"

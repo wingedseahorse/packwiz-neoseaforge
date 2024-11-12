@@ -1,0 +1,13 @@
+name = "Nice Swimming Mounts"
+filename = "nice-swimming-mounts-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zP3Dijyg/versions/KkBfbmtB/nice-swimming-mounts-1.0.jar"
+hash-format = "sha512"
+hash = "b0cf62eb056f688e603eabd479d9d8dc0beb4d85797f3f9b8039f0ba78363a2bf36652dd6779d533b8e98a18b42423ac2a7b492c7868792f767ca15a5b1a595b"
+
+[update]
+[update.modrinth]
+mod-id = "zP3Dijyg"
+version = "KkBfbmtB"

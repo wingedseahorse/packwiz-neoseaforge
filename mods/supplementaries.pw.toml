@@ -1,0 +1,13 @@
+name = "Supplementaries"
+filename = "supplementaries-1.21-3.0.10-alpha-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/FeacdFMi/supplementaries-1.21-3.0.10-alpha-neoforge.jar"
+hash-format = "sha512"
+hash = "c111a2f67cb7bdc7af4ea249cfbef1e76718e2a7637cff9af4a7a00ec92c6ff563e2b11e7747966382fdf8931ba2944302de412617137d88e9067fe6a843d129"
+
+[update]
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "FeacdFMi"

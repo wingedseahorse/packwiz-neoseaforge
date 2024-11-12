@@ -1,0 +1,13 @@
+name = "More Delight"
+filename = "moredelight-24.09.27-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/jF3eUvE7/moredelight-24.09.27-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "b75405142efe26b288dc9e32d5eaf3b6fc8fdeef6c3fc72e3dedc9e14b4801dcce38e8e0bdfde2ebc11c97e42817573eedaae8dd63d4d581b38b844beb5c6e59"
+
+[update]
+[update.modrinth]
+mod-id = "znHQQtuU"
+version = "jF3eUvE7"

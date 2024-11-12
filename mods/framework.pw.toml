@@ -1,0 +1,13 @@
+name = "Framework"
+filename = "framework-neoforge-1.21.1-0.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0275feaf8702828cbd887c922d28c3f961e4bf9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5811599
+project-id = 549225
