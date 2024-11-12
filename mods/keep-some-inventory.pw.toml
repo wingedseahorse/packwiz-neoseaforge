@@ -1,0 +1,13 @@
+name = "Keep Some Inventory"
+filename = "keep-some-inventory-v2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VHSdL301/versions/Kr9Auku0/keep-some-inventory-v2.0.1.jar"
+hash-format = "sha512"
+hash = "cd9b0fa2a22a34faba3b752482c65e93908537ae5342dac7e6e6d1c8c4ad6c40ef839bcddd7c1a17b5428f2fd78067c88713c6f0c319d4f70f686562f86d8d7c"
+
+[update]
+[update.modrinth]
+mod-id = "VHSdL301"
+version = "Kr9Auku0"
