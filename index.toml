@@ -159,11 +159,6 @@ hash = "b725bd96844d15a5e9017ab0ac09154014206c6918ebc3b83dcdbe0726a05bc1"
 metafile = true
 
 [[files]]
-file = "mods/dragon-drops-elytra.pw.toml"
-hash = "60c6d99e6fb0d0d8f83761c7bc51e436fd6915a2a3714bec9c3f304b733993a3"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "69af39e0ba517a150f4218c9eb4578255eee8acd6b37f1072a4d9ce257a2732a"
 metafile = true
@@ -319,11 +314,6 @@ hash = "3e3baf1765c094ff7c197b48f4357a0c65b0f00788ccd889d4cf6e3a0cf23a27"
 metafile = true
 
 [[files]]
-file = "mods/just-mob-heads.pw.toml"
-hash = "14c712ccc8751ffd2b914fb6952e243a13d25841597912d4b7c789f8d5c65380"
-metafile = true
-
-[[files]]
 file = "mods/just-player-heads.pw.toml"
 hash = "de5e0958394428bd763cdb8913a089cf54199a6e991f747a63b1e294d2e14863"
 metafile = true
@@ -406,11 +396,6 @@ metafile = true
 [[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
 hash = "e2ff10979a12fe1cc0fa988201dd6e794352bc1e642dc886291c526d4631bd78"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
