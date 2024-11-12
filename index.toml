@@ -214,11 +214,6 @@ hash = "e9a5bfd7d2b5e9aadd8df4f054b4ba7fb089a6ae97f4c2e01e9c271335c2dbea"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "7ee9d1ebe8b75b5f511e4ad0b18ca69fa2ac2662fb124e518713473357cc8b9e"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fecd394b03394805a2e095a7aeabfd6f241bfbd1db6b3eb6a8359394a5f2068a"
 metafile = true
