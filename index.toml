@@ -49,6 +49,11 @@ hash = "958505547fc996ec4a4173743280a4878776fff7621f4b86becf390c29cb0588"
 metafile = true
 
 [[files]]
+file = "mods/backpacked.pw.toml"
+hash = "603061cc99ed16b51e7a4e1691182fc1226c59f81043a8223ef73cda91b3967f"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "b7d562bc0145b1e3dc5040656081ecea7102b2db176047a909d5cb11801d8871"
 metafile = true
