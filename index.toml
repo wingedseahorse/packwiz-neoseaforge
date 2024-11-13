@@ -9,6 +9,10 @@ file = "gitignore.txt"
 hash = "5101efd5b281b5be75ffeca4230e129a32eed9dd41d0b190e21c0ce2a46e7c54"
 
 [[files]]
+file = "global_packs/required_data/LumisTagScience.zip"
+hash = "543e73b3f504d2c681d521229065c178875bbd29ebba1b50f14af07e3b87f40a"
+
+[[files]]
 file = "global_packs/required_data/afk display v1.1.9 (MC 1.21-1.21.3).zip"
 hash = "ebddac458d58344f559882637b1f7f4818a568ee3e3053bbf9b99898cc713a07"
 
@@ -79,6 +83,10 @@ hash = "5230961706e3cb93cdbea9f1a02f613acf74a83ca50abca2b749bc213d33c4e6"
 [[files]]
 file = "global_packs/required_data/wandering trades v1.7.7 (MC 1.21-1.21.3).zip"
 hash = "d85fb354e97cb6058b95fc528e308ea5c0d7f70b61803d0fbf9b8d87f6295fab"
+
+[[files]]
+file = "icon.png"
+hash = "5879caf7aa654fccbf9bb0fdbafb61e376f49e5169c7c0c82d8f5744e4cd8161"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
