@@ -109,11 +109,6 @@ hash = "14f2cc8d38e21da9228e6af092b9db79690d78a1054f1e30d5a2e0e3499fd961"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "04dbaa565720c45dbbf9d6ed3f1c4df9ff641ec13503b91e9206d7d93c8fe89a"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
@@ -126,11 +121,6 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "958505547fc996ec4a4173743280a4878776fff7621f4b86becf390c29cb0588"
-metafile = true
-
-[[files]]
-file = "mods/backpacked.pw.toml"
-hash = "603061cc99ed16b51e7a4e1691182fc1226c59f81043a8223ef73cda91b3967f"
 metafile = true
 
 [[files]]
@@ -151,11 +141,6 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
-metafile = true
-
-[[files]]
-file = "mods/bettertrims.pw.toml"
-hash = "ffc7968795cfbe7a06b24d90b25768684372b2dfc8fcc4abd50ffa7d8a3f0977"
 metafile = true
 
 [[files]]
@@ -204,21 +189,6 @@ hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
 metafile = true
 
 [[files]]
-file = "mods/configurable.pw.toml"
-hash = "115c77fd0b177f4e08ffdc4a5e4f304a6e6ff70a41bd427d9f4962b9b6a011c2"
-metafile = true
-
-[[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "14a392e577633d98d063167ba6546c2a30385e6d7fc0b1d07ab86d4c98d53153"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "3be67e500f6c6369a38b79c38320cce2eb3f6553e3d169cfc153081c2409faaf"
 metafile = true
@@ -239,23 +209,8 @@ hash = "84fe2e65b4bb3cbe9017d7c36036a88829d38751093d55c5f4b540ceac855a13"
 metafile = true
 
 [[files]]
-file = "mods/dwdsb.pw.toml"
-hash = "8961a9c5fb7da258b352c316b13f73d0f67734b42b0951bd05f09b02febd2ede"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "69af39e0ba517a150f4218c9eb4578255eee8acd6b37f1072a4d9ce257a2732a"
-metafile = true
-
-[[files]]
-file = "mods/elytra-trims-extensions.pw.toml"
-hash = "655b6600f9b03f5a08492ee733c9c553d79c00b79fee057bfdf95585a35a9838"
-metafile = true
-
-[[files]]
-file = "mods/elytra-trims.pw.toml"
-hash = "6db527e3759d2a1f9698f0b7b6790dd5032442d94be2e332eb8a10413a2231fd"
 metafile = true
 
 [[files]]
@@ -299,23 +254,8 @@ hash = "fecd394b03394805a2e095a7aeabfd6f241bfbd1db6b3eb6a8359394a5f2068a"
 metafile = true
 
 [[files]]
-file = "mods/fish-of-thieves.pw.toml"
-hash = "89bb746b3b712e4f5d8e569af7a2fff99cd688c9e8a660902e0e247144c42278"
-metafile = true
-
-[[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "4cf5a2e552ba4718db7a1b7e38de2e7d916f5aab3f7e45f371f0670d39261ee6"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "684e5b79c8d7776b1d1928f4e6304ef805546510d9790b101e2f6a6db03e4378"
-metafile = true
-
-[[files]]
-file = "mods/framework.pw.toml"
-hash = "6da57285c17decb0c8ac8ad07b3fce7a7607f604384007f91bf7a20c1d21e2b0"
 metafile = true
 
 [[files]]
@@ -441,11 +381,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1ccad35d39db5c408fea808ccc3e054d2caf4a9e6a0131f18ee295339e64f01a"
-metafile = true
-
-[[files]]
-file = "mods/more-armor-trims.pw.toml"
-hash = "94f613e7b373c3225d2dbd9f6bfa2e1f51e413f5d4c891c5c675b68adf9a678a"
 metafile = true
 
 [[files]]
@@ -611,16 +546,6 @@ metafile = true
 [[files]]
 file = "mods/surface-mushrooms.pw.toml"
 hash = "6edc69d7a5b3a4ec1250e91f67609e11fd2f950a53c94275a507ed7d6b419f5c"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "6505d339ca50473ec9d07849013d3da94b0b52f03ad5b851349262aa8ae312f0"
-metafile = true
-
-[[files]]
-file = "mods/surveystones.pw.toml"
-hash = "a195d1cb6b5643cf1514b637169a2e779201e09d8fd9dc5da3bd78c53c8176ec"
 metafile = true
 
 [[files]]
