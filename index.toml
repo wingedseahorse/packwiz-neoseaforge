@@ -574,6 +574,11 @@ hash = "7906df650a945a6e3833529f552af03fc2efb2a87de1d51c95c24d54c0fe7da3"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-zoom.pw.toml"
+hash = "7b20b93d95214dcdd0f8dd36d7b056156d019358464a8239667c49bdd05d1ca3"
+metafile = true
+
+[[files]]
 file = "mods/villager-in-a-bucket.pw.toml"
 hash = "e38d26264d4f5498b644bb21765565940a26508d31599817b9ea4e199a2eaaeb"
 metafile = true
