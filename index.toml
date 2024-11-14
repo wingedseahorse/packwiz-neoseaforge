@@ -329,6 +329,11 @@ hash = "19d8e03a16b099bb18f61ecd0be8bfbff525e6f8388a48ca77f5cfd5a068fa65"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "d9091fcca92522ab16ef2d3387d250e56e22655c6bde0c619b63262cd6015a78"
+metafile = true
+
+[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "da369be545d42f871efa9be6fb97791943e5d261b9dff0dc8b9678aae45e3472"
 metafile = true
