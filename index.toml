@@ -239,11 +239,6 @@ hash = "84fe2e65b4bb3cbe9017d7c36036a88829d38751093d55c5f4b540ceac855a13"
 metafile = true
 
 [[files]]
-file = "mods/dismount-entity.pw.toml"
-hash = "b725bd96844d15a5e9017ab0ac09154014206c6918ebc3b83dcdbe0726a05bc1"
-metafile = true
-
-[[files]]
 file = "mods/dwdsb.pw.toml"
 hash = "8961a9c5fb7da258b352c316b13f73d0f67734b42b0951bd05f09b02febd2ede"
 metafile = true
