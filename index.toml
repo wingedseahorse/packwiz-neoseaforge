@@ -384,6 +384,11 @@ hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "895e7a90af3348a32be2b0021ddf6560dc3a3fc4e2912a7a1927a4d57b2bf21f"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1ccad35d39db5c408fea808ccc3e054d2caf4a9e6a0131f18ee295339e64f01a"
 metafile = true
