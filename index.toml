@@ -334,6 +334,11 @@ hash = "19d8e03a16b099bb18f61ecd0be8bfbff525e6f8388a48ca77f5cfd5a068fa65"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "d9091fcca92522ab16ef2d3387d250e56e22655c6bde0c619b63262cd6015a78"
 metafile = true
@@ -491,11 +496,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "73a55eea621f7f6db374ad6a12fce24fda8d7948b04b10462ccc38f7d077af80"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "de078d6fd6f6f9112b7b542a06eda0b8414a70cbad5b7499a12ac27b14626879"
 metafile = true
 
 [[files]]
