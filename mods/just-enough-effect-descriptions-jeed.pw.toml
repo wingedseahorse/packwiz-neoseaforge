@@ -1,0 +1,13 @@
+name = "Just Enough Effect Descriptions (JEED)"
+filename = "jeed-1.21-2.2.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EO27GKs1/versions/m7gSD9ey/jeed-1.21-2.2.9.jar"
+hash-format = "sha512"
+hash = "c4b2f951db904ee28443ab06a35e69a142f75302c95b2a6005b76b3725ee4e9a0b934eb6a80ec46e035cc69aae0ecf959ea2962a7a9c5a090b0de30845ea6e27"
+
+[update]
+[update.modrinth]
+mod-id = "EO27GKs1"
+version = "m7gSD9ey"

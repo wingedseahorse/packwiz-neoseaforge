@@ -1,0 +1,13 @@
+name = "Just Enough Archaeology"
+filename = "jearchaeology-1.21.0-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K0LQpdmm/versions/7f8oHVvv/jearchaeology-1.21.0-1.1.4.jar"
+hash-format = "sha512"
+hash = "3c5b7a00ae2e65c2e44c8668734a09504e7efbb11c9e902c2f3714540d777db999cc09bb535cca3ef00eab917f4f9b1c77ae2025942bcee7c7dbfd047364d9c7"
+
+[update]
+[update.modrinth]
+mod-id = "K0LQpdmm"
+version = "7f8oHVvv"

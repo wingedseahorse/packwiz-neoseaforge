@@ -94,8 +94,13 @@ hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
 metafile = true
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "8dead91442dff887bbfc78eb2b536404ed03fb6a92cd39fe81aebeb7baae53fb"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
-hash = "c4e2100f2a19b8159f2b6ad72fcaeb5ea812f60ccc723ba2e8791c7f8e0408bc"
+hash = "9b52509bbd99599cd399d3fb5131bc2b0948b35a898076aca1c706ac46aee03d"
 metafile = true
 
 [[files]]
@@ -146,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/bigger-sponge-absorption-radius.pw.toml"
 hash = "85cecc27ac152dc4d4933775b0b690e09bf0bdcf92c9129144c7c7ccf378bf22"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "5886952c4602672577b0215c818633c77397d156f8526e2e5411b4a247f6be1e"
 metafile = true
 
 [[files]]
@@ -221,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/enchanted-vertical-slabs.pw.toml"
 hash = "0f65b65c4f38b6321b27d6a2997cd26b285dc6e5273af6ddb88254fa65935d26"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "467d7d44e4da1ac78b4c80b71ddf8b91cbca4bca068318f6ee548299eef28e82"
 metafile = true
 
 [[files]]
@@ -349,6 +364,16 @@ hash = "da369be545d42f871efa9be6fb97791943e5d261b9dff0dc8b9678aae45e3472"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-archaeology.pw.toml"
+hash = "59ccef75c894e7dcceefc15cb41ccb78aa6faf40586ab6137737bc429d07bc4d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "eb856b2f57fa5cc5d038daeafc965a81d97a5a712f88bdd70baaccf8476eba91"
+metafile = true
+
+[[files]]
 file = "mods/just-hammers.pw.toml"
 hash = "3e3baf1765c094ff7c197b48f4357a0c65b0f00788ccd889d4cf6e3a0cf23a27"
 metafile = true
@@ -449,6 +474,11 @@ hash = "cc5be8a62ad711a14a943bc71f529376b0a5f9f1e78bc2c4c368174d7268d96a"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-trials.pw.toml"
+hash = "5ccc1be19f0d10a10a556f56353e9b851926b0eb39a1eace067ce72b971e2b77"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "0b069053b252b25d530e693750f5e8480fb54bae7869ecb2319ecc54b850015b"
 metafile = true
@@ -471,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/piglin-names.pw.toml"
 hash = "8f00d17c747792ef1b3855bb75114517b3d28594f4731428fa348421c83f75d5"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
 metafile = true
 
 [[files]]
@@ -544,8 +579,23 @@ hash = "b4dd9565b86daad7adbdad543ceacd8ecc493cde2f1c8afd4000c8a65fd55953"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "ca1bb1501c038b3e911bbf855fd2bfe41177130ee6a9a1d2cbbfd7eb503d0889"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "70f976f792db05446cdbf3798efe794749a7d8af9243981af9a342d94d41af35"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "726dd81c3e660473716fb109264d76cf9386cf645a79d436e327ff86400b655b"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
 metafile = true
 
 [[files]]
@@ -579,11 +629,6 @@ hash = "7906df650a945a6e3833529f552af03fc2efb2a87de1d51c95c24d54c0fe7da3"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-zoom.pw.toml"
-hash = "7b20b93d95214dcdd0f8dd36d7b056156d019358464a8239667c49bdd05d1ca3"
-metafile = true
-
-[[files]]
 file = "mods/villager-in-a-bucket.pw.toml"
 hash = "e38d26264d4f5498b644bb21765565940a26508d31599817b9ea4e199a2eaaeb"
 metafile = true
@@ -596,11 +641,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "d1f4e89f0bab13ba276c7eda30f893c96a4ea6163357e8fcefe0c3b2b704b142"
-metafile = true
-
-[[files]]
-file = "mods/world-border.pw.toml"
-hash = "2a63a827fae0e66c6c1472302f3b06e1281cc016bfb130bdf51926fab1315cb2"
 metafile = true
 
 [[files]]

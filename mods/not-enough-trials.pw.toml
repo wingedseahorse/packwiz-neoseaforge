@@ -1,0 +1,13 @@
+name = "Not Enough Trials"
+filename = "NotEnoughTrials-1.21-v1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1W5PhsYU/versions/eMVmkSVJ/NotEnoughTrials-1.21-v1.0.jar"
+hash-format = "sha512"
+hash = "ae7288adcffe1638dd79e820175c77b8f81a7dc9be397626df1c8a4818b2cd1d2097c05e99eeebd98a2891d7fffb6331eb2b04dcabcaf2edb22660b153b863e1"
+
+[update]
+[update.modrinth]
+mod-id = "1W5PhsYU"
+version = "eMVmkSVJ"
