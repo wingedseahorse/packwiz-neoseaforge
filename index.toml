@@ -149,6 +149,11 @@ hash = "f8a38924e14f920e143eca6225cb2a8151d7c2978bf36869fe3290e1302bd6a4"
 metafile = true
 
 [[files]]
+file = "mods/bettertrims.pw.toml"
+hash = "ffc7968795cfbe7a06b24d90b25768684372b2dfc8fcc4abd50ffa7d8a3f0977"
+metafile = true
+
+[[files]]
 file = "mods/bigger-sponge-absorption-radius.pw.toml"
 hash = "85cecc27ac152dc4d4933775b0b690e09bf0bdcf92c9129144c7c7ccf378bf22"
 metafile = true
@@ -199,6 +204,21 @@ hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "801ae0600c554b25c7f608893b692cd9dbdee6de6923779709a2748bca9b503d"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "c51827efff4ac0974d461d449f0fc30185ba5911d80df1092741b0d14acca5d8"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "3be67e500f6c6369a38b79c38320cce2eb3f6553e3d169cfc153081c2409faaf"
 metafile = true
@@ -221,6 +241,16 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "69af39e0ba517a150f4218c9eb4578255eee8acd6b37f1072a4d9ce257a2732a"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims-extensions.pw.toml"
+hash = "655b6600f9b03f5a08492ee733c9c553d79c00b79fee057bfdf95585a35a9838"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "6db527e3759d2a1f9698f0b7b6790dd5032442d94be2e332eb8a10413a2231fd"
 metafile = true
 
 [[files]]
@@ -276,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "4cf5a2e552ba4718db7a1b7e38de2e7d916f5aab3f7e45f371f0670d39261ee6"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "684e5b79c8d7776b1d1928f4e6304ef805546510d9790b101e2f6a6db03e4378"
 metafile = true
 
 [[files]]
@@ -426,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1ccad35d39db5c408fea808ccc3e054d2caf4a9e6a0131f18ee295339e64f01a"
+metafile = true
+
+[[files]]
+file = "mods/more-armor-trims.pw.toml"
+hash = "94f613e7b373c3225d2dbd9f6bfa2e1f51e413f5d4c891c5c675b68adf9a678a"
 metafile = true
 
 [[files]]
