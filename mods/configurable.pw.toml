@@ -1,6 +1,6 @@
 name = "Configurable"
 filename = "Configurable-2.2.2-neoforge-yarn+1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/Wq1MDsvR/Configurable-2.2.2-neoforge-yarn%2B1.21.1.jar"
