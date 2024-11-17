@@ -514,23 +514,8 @@ hash = "cc5be8a62ad711a14a943bc71f529376b0a5f9f1e78bc2c4c368174d7268d96a"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-trials.pw.toml"
-hash = "5ccc1be19f0d10a10a556f56353e9b851926b0eb39a1eace067ce72b971e2b77"
-metafile = true
-
-[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "0b069053b252b25d530e693750f5e8480fb54bae7869ecb2319ecc54b850015b"
-metafile = true
-
-[[files]]
-file = "mods/origins-minus.pw.toml"
-hash = "a7890d099079e11f8e1abb1f401f52f340d1bb8b92d1a8f92519cd875bef5444"
-metafile = true
-
-[[files]]
-file = "mods/origins.pw.toml"
-hash = "a761fd033a60aa43ead7c3309c092a985af4c452ef6bfa10854b8bd1799543fe"
 metafile = true
 
 [[files]]
