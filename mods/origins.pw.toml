@@ -1,0 +1,13 @@
+name = "Origins"
+filename = "Origins-1.13.0-alpha.9+mc.1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/BUZYwxOO/Origins-1.13.0-alpha.9%2Bmc.1.21.x.jar"
+hash-format = "sha512"
+hash = "ce92ce77d503c39748894299986fd41414039def5f480e5add50c69cb7f84d110e41da7e82422a7a9162d618fe62f9a457d2269b0861e4b9b97424de446f0955"
+
+[update]
+[update.modrinth]
+mod-id = "3BeIrqZR"
+version = "BUZYwxOO"

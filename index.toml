@@ -524,6 +524,16 @@ hash = "0b069053b252b25d530e693750f5e8480fb54bae7869ecb2319ecc54b850015b"
 metafile = true
 
 [[files]]
+file = "mods/origins-minus.pw.toml"
+hash = "a7890d099079e11f8e1abb1f401f52f340d1bb8b92d1a8f92519cd875bef5444"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "a761fd033a60aa43ead7c3309c092a985af4c452ef6bfa10854b8bd1799543fe"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a6cb55d3181d444d260a33bd903a5c41f5db059b3c4da4fea8187519f02aa7"
 metafile = true
@@ -531,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "6849c7d4ca78c55503b20f70842176fccbace221e3e6834c4b11bfed8b4dbc0a"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
 metafile = true
 
 [[files]]
