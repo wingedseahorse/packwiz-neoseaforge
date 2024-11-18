@@ -5,6 +5,10 @@ file = "README.md"
 hash = "a2d67fe32af192bc0b2e95964a9f31b8c56d7887f97f64ee9a82b35292869efd"
 
 [[files]]
+file = "changelog.md"
+hash = "86d6c2e9f91710cf43bfe6470200e9284084bf6d9e5f8a116723fb5ff7acdb70"
+
+[[files]]
 file = "config/carryon-common.toml"
 hash = "96dda531ca34aca554205034fe0c0cbc6db00b93d1281951cc8ff9fb7c80d92a"
 
@@ -17,8 +21,8 @@ file = "gitignore.txt"
 hash = "5101efd5b281b5be75ffeca4230e129a32eed9dd41d0b190e21c0ce2a46e7c54"
 
 [[files]]
-file = "global_packs/required_data/LumisTagScience.zip"
-hash = "543e73b3f504d2c681d521229065c178875bbd29ebba1b50f14af07e3b87f40a"
+file = "global_packs/required_data/LumisMadScience.zip"
+hash = "7707f9534b41830c1eec9e9bd920015caaa1c07f01b7fc51347e7bee92782321"
 
 [[files]]
 file = "global_packs/required_data/afk display v1.1.9 (MC 1.21-1.21.3).zip"
