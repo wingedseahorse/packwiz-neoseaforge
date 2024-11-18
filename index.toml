@@ -257,6 +257,11 @@ hash = "84fe2e65b4bb3cbe9017d7c36036a88829d38751093d55c5f4b540ceac855a13"
 metafile = true
 
 [[files]]
+file = "mods/dwdsb.pw.toml"
+hash = "8961a9c5fb7da258b352c316b13f73d0f67734b42b0951bd05f09b02febd2ede"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "69af39e0ba517a150f4218c9eb4578255eee8acd6b37f1072a4d9ce257a2732a"
 metafile = true
