@@ -1,0 +1,13 @@
+name = "Flower Patch"
+filename = "FlowerPatch-neoforge-1.21-7.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hbo1O1M/versions/teUBIHNO/FlowerPatch-neoforge-1.21-7.0.1.jar"
+hash-format = "sha512"
+hash = "322ff7cdc7be8129ed191691d267ce1de8aa14e8ca0ba0273bf5e2975a7174372c247bc58959fcddc8e0eef2e1b969adb283850ff7bdae79d6ae72f26f120fbe"
+
+[update]
+[update.modrinth]
+mod-id = "8hbo1O1M"
+version = "teUBIHNO"

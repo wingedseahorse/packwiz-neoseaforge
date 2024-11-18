@@ -327,6 +327,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/flower-patch.pw.toml"
+hash = "6ff00fec4e6be2cd5a6d3d162f473fb75414d882bb6d84553c92ca8c51a557b5"
+metafile = true
+
+[[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "4cf5a2e552ba4718db7a1b7e38de2e7d916f5aab3f7e45f371f0670d39261ee6"
 metafile = true
