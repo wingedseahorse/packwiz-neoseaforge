@@ -1,0 +1,13 @@
+name = "Trimmable Tools"
+filename = "trimmable_tools-neoforge-1.21-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MJu3fF3K/versions/CVvid8y5/trimmable_tools-neoforge-1.21-2.0.3.jar"
+hash-format = "sha512"
+hash = "b539db2d960614025081af5c7c2f104653d07115cbbef96048aa76782dfb2ed259523f55552564d1723eb93d93df75e199ca70dc0e30b07efc102a73e7f58682"
+
+[update]
+[update.modrinth]
+mod-id = "MJu3fF3K"
+version = "CVvid8y5"

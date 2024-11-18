@@ -1,0 +1,13 @@
+name = "RuntimeTrims"
+filename = "RuntimeTrims-1.0.6-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eRg6mpBy/versions/fCsbN0SK/RuntimeTrims-1.0.6-neoforge%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "bf0498ff9f4c9827403541b648a95ed2330ea562728257595080e4edf329c1d3266e7f6d2dfb05b8a66d1ed679fa485247921f1bdda5b317a21a493f3b25f65d"
+
+[update]
+[update.modrinth]
+mod-id = "eRg6mpBy"
+version = "fCsbN0SK"

@@ -1,0 +1,13 @@
+name = "All The Trims"
+filename = "AllTheTrims-5.0.1-neoforge+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pnsUKrap/versions/h5Zbk0kV/AllTheTrims-5.0.1-neoforge%2B1.21.jar"
+hash-format = "sha512"
+hash = "526eecfabf131b02759be500b8920069c7e509d6148e091fd8c6587ec2839747a15d974fb0f7a505605cc806fc0dcf884f3f75d3414ab6db5a0afec07cf924fa"
+
+[update]
+[update.modrinth]
+mod-id = "pnsUKrap"
+version = "h5Zbk0kV"

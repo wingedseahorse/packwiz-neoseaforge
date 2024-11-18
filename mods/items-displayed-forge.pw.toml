@@ -1,0 +1,13 @@
+name = "Items Displayed [NeoForge]"
+filename = "ItemsDisplayed-NeoForge-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PuR4vDBo/versions/bplCicGF/ItemsDisplayed-NeoForge-2.0.0.jar"
+hash-format = "sha512"
+hash = "8f26ce4f7d4ba3ae7964af8a5b79bfba1e8cd5b96996c4b30bc52345b3c873ed5154022129f3c1fa4afe813a1b19bc697733c9dcb5e14d3ce679d5a13b5b2fa9"
+
+[update]
+[update.modrinth]
+mod-id = "PuR4vDBo"
+version = "bplCicGF"

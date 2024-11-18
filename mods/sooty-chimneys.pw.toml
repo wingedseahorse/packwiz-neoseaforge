@@ -1,0 +1,13 @@
+name = "Sooty Chimneys"
+filename = "sootychimneys-neoforge-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b3w1XM9H/versions/AN4WnIRO/sootychimneys-neoforge-1.3.1.jar"
+hash-format = "sha512"
+hash = "2aedffaf93c299dd248cf78ac00404d682305ab8eabebf33f4fce6dfad788af314f61c3a5a3edb941a6e20fd87e69dbdcd4655b4a59305a64a47e6d23544775e"
+
+[update]
+[update.modrinth]
+mod-id = "b3w1XM9H"
+version = "AN4WnIRO"

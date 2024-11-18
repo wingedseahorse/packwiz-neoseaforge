@@ -9,6 +9,10 @@ file = "config/carryon-common.toml"
 hash = "96dda531ca34aca554205034fe0c0cbc6db00b93d1281951cc8ff9fb7c80d92a"
 
 [[files]]
+file = "config/rightclickharvest.json5"
+hash = "36793cb228d971b32facb5c7146c61904585b419ece833769404b0a96b002f77"
+
+[[files]]
 file = "gitignore.txt"
 hash = "5101efd5b281b5be75ffeca4230e129a32eed9dd41d0b190e21c0ce2a46e7c54"
 
@@ -108,6 +112,11 @@ hash = "9b52509bbd99599cd399d3fb5131bc2b0948b35a898076aca1c706ac46aee03d"
 metafile = true
 
 [[files]]
+file = "mods/allthetrims.pw.toml"
+hash = "d988b264d47038cdc294416173c9c3b1c4c4a33a6f6ef055e7224fffb53306f1"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "6b1de417a7fa934847bf002b75acd00d48637bb3484ea468799354b612658775"
 metafile = true
@@ -130,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "958505547fc996ec4a4173743280a4878776fff7621f4b86becf390c29cb0588"
+metafile = true
+
+[[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "88c26d536067e93c7bd5ea40071a23a2d9ce4688e9cd760eff8bbb6ec992d078"
 metafile = true
 
 [[files]]
@@ -388,6 +402,16 @@ hash = "ed7d500877392d0dc94accef28e94c5035c74f4581b7ac1522a90ce18d2ab6b0"
 metafile = true
 
 [[files]]
+file = "mods/items-displayed-forge.pw.toml"
+hash = "10cb3f6ddb00ed525d7b1e7d23fa139be70bb3d03d6fcaadeef1aa10ab18795e"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "25f01bc84d67849927c2fd16c329bfdca3e5ca749435e68a4d24e4e228189409"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
 metafile = true
@@ -548,6 +572,11 @@ hash = "8f00d17c747792ef1b3855bb75114517b3d28594f4731428fa348421c83f75d5"
 metafile = true
 
 [[files]]
+file = "mods/plushie.pw.toml"
+hash = "0a34492da40afdcd5c1a53b4c5bf6f296532762fe365f5df8d3f26dbcc4f47a9"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
 metafile = true
@@ -588,6 +617,16 @@ hash = "53b7873e229f9ffd722c84a3e277af26e10ed774d59f459c6e052db771c9620b"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "fce27bc6cd174ef366e25c73eb7ba5da20757f291bbbf405e9e66e88aacc653b"
+metafile = true
+
+[[files]]
+file = "mods/runtimetrims.pw.toml"
+hash = "46592670744c611e715fc7ef10b5b70bc9b50c4461bd182e4e6ed7089437c1d2"
+metafile = true
+
+[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "02f8bdd387eec8db38e29caff8f9454a42faa9fc41c83db26a67cb4b11f8a378"
 metafile = true
@@ -595,6 +634,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/simple-netherite-horse-armor.pw.toml"
+hash = "7da71ecea87957a8daba22bbd4c93af23ee0e91bb583a30a73a2d94b8db62e6e"
 metafile = true
 
 [[files]]
@@ -618,6 +662,11 @@ hash = "b4dd9565b86daad7adbdad543ceacd8ecc493cde2f1c8afd4000c8a65fd55953"
 metafile = true
 
 [[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "609b7ea2f3cf4752141ae8163b56aebac4e879f06eea56ad37e3febb4fac3077"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "ca1bb1501c038b3e911bbf855fd2bfe41177130ee6a9a1d2cbbfd7eb503d0889"
 metafile = true
@@ -625,6 +674,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "70f976f792db05446cdbf3798efe794749a7d8af9243981af9a342d94d41af35"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "54d8e3cb2804b7a5b8e21b5040e2cecb733d51d61304b486c2fbade30a094299"
 metafile = true
 
 [[files]]
@@ -643,6 +697,11 @@ hash = "a9ea5f14e0692d18b942ecedcd787437a8089dbdeb307e3c016b71db0388524d"
 metafile = true
 
 [[files]]
+file = "mods/stop-drop-n-roll.pw.toml"
+hash = "6b649d6c044f9da4b5fda94a711177dd2535fe6495ea94fd5746f83bd8b3e3eb"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "cefe839c869eda199cc16856e0b1a1af76d35f68d35d24d882c2935b56c634da"
 metafile = true
@@ -658,8 +717,18 @@ hash = "e49b698af06dd3fafabf3bb587d0deb69867ed70e4c935992d9a83ba26e31752"
 metafile = true
 
 [[files]]
+file = "mods/tide.pw.toml"
+hash = "b6fe511f710eac755a1c52b42862eacc671c193cd37901533b941f8441f44cf4"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "b3adb952d8967dc7537d8a2d1add75bbfb8ecec53d4c2636caf075e3a0ba3041"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "3bef8cd91dba4a400da8d05499ec7492a6a95be54fa4a682e7be22742397ffa8"
 metafile = true
 
 [[files]]
