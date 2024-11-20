@@ -256,11 +256,6 @@ hash = "9c8c1e83a5313227ed7e0b68018e6a26cbd8202e6a22c8b973a595f356273525"
 metafile = true
 
 [[files]]
-file = "mods/creeper-overhaul.pw.toml"
-hash = "84fe2e65b4bb3cbe9017d7c36036a88829d38751093d55c5f4b540ceac855a13"
-metafile = true
-
-[[files]]
 file = "mods/dwdsb.pw.toml"
 hash = "8961a9c5fb7da258b352c316b13f73d0f67734b42b0951bd05f09b02febd2ede"
 metafile = true
@@ -293,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "467d7d44e4da1ac78b4c80b71ddf8b91cbca4bca068318f6ee548299eef28e82"
-metafile = true
-
-[[files]]
-file = "mods/enderman-overhaul.pw.toml"
-hash = "6f49a6b513a5ff3425909151c85b6ec808e19b6d37e2343c7ea676000a9d1121"
 metafile = true
 
 [[files]]

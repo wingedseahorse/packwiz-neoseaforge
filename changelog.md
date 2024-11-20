@@ -15,6 +15,8 @@ additions;
 - flower patches
 removed;
 - keep soil tilled 
+updated;
+- Lumi's Mad Science datapack (removed treasure enchantments from table)
 
 known bugs;
 - lilypads holding items causes server to crash, but only when Lumi does it (Amendments)
