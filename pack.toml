@@ -1,12 +1,12 @@
 name = "Neoforge 21"
 author = "Sea Jr."
-version = "1.0.0"
+version = "1.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e14161819afa2403dc5853345f5e40e0b5b4ef6459402a6533eac6f38b8b0d6b"
+hash = "61fbeec0e33e8d4c670b86742cd3a8299bc80cd8f8caf23437d366f6afd96309"
 
 [versions]
 minecraft = "1.21.1"

@@ -6,7 +6,7 @@ hash = "a2d67fe32af192bc0b2e95964a9f31b8c56d7887f97f64ee9a82b35292869efd"
 
 [[files]]
 file = "changelog.md"
-hash = "86d6c2e9f91710cf43bfe6470200e9284084bf6d9e5f8a116723fb5ff7acdb70"
+hash = "a1c6b8a6ee8cec918e23ca14986f15f20790bd89b595dd519bd93df6db1944e8"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -183,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "5886952c4602672577b0215c818633c77397d156f8526e2e5411b4a247f6be1e"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "42cc092cb62e438f6d20990a113748ae58e88c8d1e771cca00e6c64d6b8cebfa"
 metafile = true
 
 [[files]]
@@ -628,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "02f8bdd387eec8db38e29caff8f9454a42faa9fc41c83db26a67cb4b11f8a378"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
 metafile = true
 
 [[files]]
