@@ -6,7 +6,7 @@ hash = "a2d67fe32af192bc0b2e95964a9f31b8c56d7887f97f64ee9a82b35292869efd"
 
 [[files]]
 file = "changelog.md"
-hash = "a1c6b8a6ee8cec918e23ca14986f15f20790bd89b595dd519bd93df6db1944e8"
+hash = "40ff363e37e3a2025ea12cf90cfeb0c676e1151b7f6985f60528a870589c8abe"
 
 [[files]]
 file = "config/carryon-common.toml"
