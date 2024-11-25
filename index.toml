@@ -1,24 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "a2d67fe32af192bc0b2e95964a9f31b8c56d7887f97f64ee9a82b35292869efd"
-
-[[files]]
-file = "changelog.md"
-hash = "40ff363e37e3a2025ea12cf90cfeb0c676e1151b7f6985f60528a870589c8abe"
-
-[[files]]
 file = "config/carryon-common.toml"
 hash = "96dda531ca34aca554205034fe0c0cbc6db00b93d1281951cc8ff9fb7c80d92a"
 
 [[files]]
 file = "config/rightclickharvest.json5"
 hash = "36793cb228d971b32facb5c7146c61904585b419ece833769404b0a96b002f77"
-
-[[files]]
-file = "gitignore.txt"
-hash = "5101efd5b281b5be75ffeca4230e129a32eed9dd41d0b190e21c0ce2a46e7c54"
 
 [[files]]
 file = "global_packs/required_data/LumisMadScience.zip"
@@ -766,5 +754,49 @@ hash = "a91393ba3eec1163f5d82457217c9deb35eb04910909e9676a9672da6dd2d0e4"
 metafile = true
 
 [[files]]
-file = "packwizignore.txt"
-hash = "ba405b6cd14234a2e85dfe652c291061cc92007b3994d2755e15e8551b0fc776"
+file = "resourcepacks/SeasHats/assets/minecraft/models/block/hathalo.json"
+hash = "66826ab9f35a558c321e903a090ba1a818ef16710ce23202c8b875bca98f520d"
+
+[[files]]
+file = "resourcepacks/SeasHats/assets/minecraft/models/block/hatjerry.json"
+hash = "d49357d3cacaa9990d47afc6826eb84e34503db42aac74527806096acce9565f"
+
+[[files]]
+file = "resourcepacks/SeasHats/assets/minecraft/models/item/carved_pumpkin.json"
+hash = "6e61445b89e7e532a7fce753744003d0c90d8c752786e807199cd517ee8560c5"
+
+[[files]]
+file = "resourcepacks/SeasHats/assets/minecraft/textures/block/hathalo.png"
+hash = "6aba28ceb683115fc4e7b8f6ca847b78fde8735affbcf18a4ae4f94d6b5b37eb"
+
+[[files]]
+file = "resourcepacks/SeasHats/assets/minecraft/textures/block/hatjerry.png"
+hash = "26f0b42dd88e9a468646ec75e8dfbb25a96d8565c1cea3046958833b81fc366f"
+
+[[files]]
+file = "resourcepacks/SeasHats/assets/minecraft/textures/misc/pumpkinblur.png"
+hash = "42b60f117f2c7c90d7f51e4fc5f2d933755560c8a4457aa2a9dbbab9485c07d2"
+
+[[files]]
+file = "resourcepacks/SeasHats/pack.mcmeta"
+hash = "eab27f4a9fa2e1295035faea614d6c4ce4690bcfb8e96c0b7cdbbe2c6a81f008"
+
+[[files]]
+file = "resourcepacks/SeasHats/pack.png"
+hash = "7733792ef4e4143523f6fddb972872caa48a231627ae34130fd1932a7d08a95e"
+
+[[files]]
+file = "resourcepacks/tortie smortie v2/assets/minecraft/optifine/random/entity/cat/calico.properties"
+hash = "5221fdea31fd5de5b73330f70d8831e8844708ea70ddd3bf09f996fc0a116f5b"
+
+[[files]]
+file = "resourcepacks/tortie smortie v2/assets/minecraft/optifine/random/entity/cat/calico2.png"
+hash = "a5f1f96c524634e0f78ae629c8dd4eddd278b7039da732d2f95bea694fd5d8a1"
+
+[[files]]
+file = "resourcepacks/tortie smortie v2/pack.mcmeta"
+hash = "0c9632fff450ca0f9642a48a6fb9832ed25e16d67409bed951af4871e8784bd8"
+
+[[files]]
+file = "resourcepacks/tortie smortie v2/pack.png"
+hash = "4e9cb9f25ecf3f4d5a11bbd91c73f48dc06250ef0fa265c61fcdeee89415c2a2"
