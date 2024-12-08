@@ -93,11 +93,6 @@ file = "icon.png"
 hash = "5879caf7aa654fccbf9bb0fdbafb61e376f49e5169c7c0c82d8f5744e4cd8161"
 
 [[files]]
-file = "mods/accelerated-decay.pw.toml"
-hash = "e23f5fdde0fc396372e1697fa5d4b384ccb223026a50b8d5e379a38b288deb2a"
-metafile = true
-
-[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "8dead91442dff887bbfc78eb2b536404ed03fb6a92cd39fe81aebeb7baae53fb"
 metafile = true
@@ -725,6 +720,11 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "b3adb952d8967dc7537d8a2d1add75bbfb8ecec53d4c2636caf075e3a0ba3041"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "63b74645d428f53a42edbab473ef56493034929f302516c957af685711992540"
 metafile = true
 
 [[files]]
