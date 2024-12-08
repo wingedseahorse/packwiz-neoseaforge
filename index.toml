@@ -9,6 +9,10 @@ file = "config/rightclickharvest.json5"
 hash = "36793cb228d971b32facb5c7146c61904585b419ece833769404b0a96b002f77"
 
 [[files]]
+file = "config/treeharvester.json5"
+hash = "054f4986f028da58e0a5e0bb2e61f18e69a0309ceeef73bbcb98c4563c30328e"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "d310e0dd92d9119ef8528c3128c6f7b897de2cd1f1c9b469fc57d8690f6036c4"
 
@@ -724,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "63b74645d428f53a42edbab473ef56493034929f302516c957af685711992540"
+hash = "02fd3db2b3b3bc36f0bb0d30ebe79ab907197c41ab14f2cba2acbe772e027f92"
 metafile = true
 
 [[files]]
