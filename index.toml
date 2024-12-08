@@ -9,6 +9,10 @@ file = "config/rightclickharvest.json5"
 hash = "36793cb228d971b32facb5c7146c61904585b419ece833769404b0a96b002f77"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "d310e0dd92d9119ef8528c3128c6f7b897de2cd1f1c9b469fc57d8690f6036c4"
+
+[[files]]
 file = "global_packs/required_data/LumisMadScience.zip"
 hash = "7707f9534b41830c1eec9e9bd920015caaa1c07f01b7fc51347e7bee92782321"
 
@@ -174,11 +178,6 @@ hash = "5886952c4602672577b0215c818633c77397d156f8526e2e5411b4a247f6be1e"
 metafile = true
 
 [[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "42cc092cb62e438f6d20990a113748ae58e88c8d1e771cca00e6c64d6b8cebfa"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
@@ -196,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "27ffeceea1bb50c9d613538924e7b37e1bc36e3bbaf9839f2b5abd47bf941838"
 metafile = true
 
 [[files]]
