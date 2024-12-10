@@ -202,6 +202,11 @@ hash = "27ffeceea1bb50c9d613538924e7b37e1bc36e3bbaf9839f2b5abd47bf941838"
 metafile = true
 
 [[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "cbb43eea425a91c64af48e3275d190c630300a735fb3696b35aadcefabf6a570"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "2146f8e3fb866b92b47072034f68994a6fd30b87fe928655163d720e35ad3b04"
 metafile = true

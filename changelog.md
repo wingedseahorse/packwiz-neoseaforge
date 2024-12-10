@@ -2,6 +2,8 @@
 - swapped leaf decay for tree harvester
 - waystones config has been updated and you can now TP direclty from you inventory screen (trigger commands will hence be disabled, make use of scrolls)
 - chunky has been installed 
+- everyone shall see bearcat in all their torbie glory (enable tortie smortie resource pack)
+- i made some hats owo (enable Seas Hats resource pack)
 
 # v1.2.2 - 23/11
 additions; 
