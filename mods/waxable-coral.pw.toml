@@ -1,0 +1,13 @@
+name = "Waxable Coral"
+filename = "Waxable Coral-neo-1.21-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TPfB4RGE/versions/Mp4I63Gf/Waxable%20Coral-neo-1.21-2.0.1.jar"
+hash-format = "sha512"
+hash = "1969faf85c71c723524531d4af079a13881c7317c4ed6b6866df64bafb5a40013fe5051cafd3fff1e4f3eb3d44273c2a00041e3dba791d701d0c1005f6322f54"
+
+[update]
+[update.modrinth]
+mod-id = "TPfB4RGE"
+version = "Mp4I63Gf"

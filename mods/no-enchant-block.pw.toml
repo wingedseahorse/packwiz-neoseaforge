@@ -1,0 +1,13 @@
+name = "No Enchant Block"
+filename = "no-enchant-block-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wP2OLp8w/versions/MpabATyO/no-enchant-block-2.1.1.jar"
+hash-format = "sha512"
+hash = "c3081aaed2ae7e59727ad8b55a5e9c947ff2fd9296964a33708866bb632df91733d4675d560c77426e018946228c4031c9524429fa7a8446a87918eb96e6d604"
+
+[update]
+[update.modrinth]
+mod-id = "wP2OLp8w"
+version = "MpabATyO"

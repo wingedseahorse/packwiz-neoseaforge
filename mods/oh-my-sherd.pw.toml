@@ -1,0 +1,13 @@
+name = "Oh My Sherd"
+filename = "ohmysherd-neoforge-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NazssWmx/versions/jEYpJQGT/ohmysherd-neoforge-1.21.1-21.1.2.jar"
+hash-format = "sha512"
+hash = "356ba73ea1468ea914812f2342c628c0d8c3bafe890147e731a91dd45ca2a0a1cbe74390ea331470bc588cc2c93c494e172bdc407783168eccd220cea855a2e1"
+
+[update]
+[update.modrinth]
+mod-id = "NazssWmx"
+version = "jEYpJQGT"

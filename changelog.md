@@ -1,3 +1,13 @@
+# v1.3.0 - 11/12
+additions;
+- sherd duplication
+- oh my sherd
+- waxable coral
+- cobber cutting
+- armor trim item fix
+- immersive lanterns (can equip to accessories slot for persistent lighting)
+- no enchant block
+
 # v1.2.3 - 08/12
 - swapped leaf decay for tree harvester
 - waystones config has been updated and you can now TP direclty from you inventory screen (trigger commands will hence be disabled, make use of scrolls)

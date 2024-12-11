@@ -1,0 +1,13 @@
+name = "Sherd Duplication"
+filename = "sherdduplication-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/38Vc7azQ/versions/NvO33IcQ/sherdduplication-neoforge-1.21.1-21.1.1.jar"
+hash-format = "sha512"
+hash = "e93bdd1256c78e20426a1d15dc632728e95d94232226791b8755fb92f0499e373893b4bcd6aaee06e780341fddd287080aecdbc60325a75124f11746c7527140"
+
+[update]
+[update.modrinth]
+mod-id = "38Vc7azQ"
+version = "NvO33IcQ"

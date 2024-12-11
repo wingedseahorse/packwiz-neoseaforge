@@ -1,0 +1,13 @@
+name = "Sweaters"
+filename = "Sweaters-1.21-0.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Q1NmVPD/versions/paGgUnyc/Sweaters-1.21-0.1.1.jar"
+hash-format = "sha512"
+hash = "84c7f8f15567c78dd1085a09d4070698cfb5e070363a9593523123d3ceb4c2d384a4544c1640b6772438cae8c432b989b2c3759280f8b521b269715547cf9c33"
+
+[update]
+[update.modrinth]
+mod-id = "1Q1NmVPD"
+version = "paGgUnyc"

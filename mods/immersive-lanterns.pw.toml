@@ -1,0 +1,13 @@
+name = "Toni's Immersive Lanterns"
+filename = "immersivelanterns-neoforge-1.0.5-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vskzdsyT/versions/A8YV5t8U/immersivelanterns-neoforge-1.0.5-1.21.1.jar"
+hash-format = "sha512"
+hash = "e6ce9fd2050e16aecd445f0d819d90065ed42dd170b3add3e63e207d93316833ab64870952ae5bf1ce30bf947fb4eae897d6f1a80cc3322a21ec8e8b0d7240b0"
+
+[update]
+[update.modrinth]
+mod-id = "vskzdsyT"
+version = "A8YV5t8U"

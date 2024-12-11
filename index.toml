@@ -132,6 +132,16 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/armor-trim-item-fix.pw.toml"
+hash = "2a2ec3fe79e0ebb31c51a5fa3ed31f1778f77216fd757922ec6040379a606834"
+metafile = true
+
+[[files]]
+file = "mods/ars-elixirum.pw.toml"
+hash = "65ae54fbe544adbd5c83872bfbe75f08939f9941f18bef611c4b829d421229f3"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "958505547fc996ec4a4173743280a4878776fff7621f4b86becf390c29cb0588"
 metafile = true
@@ -247,6 +257,11 @@ hash = "3be67e500f6c6369a38b79c38320cce2eb3f6553e3d169cfc153081c2409faaf"
 metafile = true
 
 [[files]]
+file = "mods/copper-cutting.pw.toml"
+hash = "5e3b41ce98863d97a6693fe70d7991de0922bb71ea89cde957324dcc9632978b"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "9c1e5ab54426b16dc68966bf201236132b82769e1c869a6e579ed4ae66a62564"
 metafile = true
@@ -337,6 +352,11 @@ hash = "684e5b79c8d7776b1d1928f4e6304ef805546510d9790b101e2f6a6db03e4378"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "907626f3224cff49b9c2754f9c182062c3d5ae8a3538df382d46e1042b97d056"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "a3a0d38513eeeba88ae55e3aa6fce0babf9af33fe74be8ae12171fe090c54653"
 metafile = true
@@ -394,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5ffd03a8cbc1d35265ea7425356e6c2086ffd16ffd198a2a69de5b2b650a227d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "8d2c8090d48660c6548ad62ffa09b7476080735e7ad4e2963c04fd76181c31b5"
 metafile = true
 
 [[files]]
@@ -487,6 +512,11 @@ hash = "895e7a90af3348a32be2b0021ddf6560dc3a3fc4e2912a7a1927a4d57b2bf21f"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "925659c8597d0656d66592a864b9855ca5b889ef527d2cbf3ed6ba1811d16606"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "a43db229d5165c83cb427f5a9454bc2e15f78136cc8234f309b5654e3bfe2a97"
 metafile = true
@@ -532,6 +562,11 @@ hash = "e2ff10979a12fe1cc0fa988201dd6e794352bc1e642dc886291c526d4631bd78"
 metafile = true
 
 [[files]]
+file = "mods/no-enchant-block.pw.toml"
+hash = "292d07bc16e85e42604ee12c14f8b2cb1edf1f7063bb371f2923b692e2159f6c"
+metafile = true
+
+[[files]]
 file = "mods/no-feather-trample.pw.toml"
 hash = "3822a5fb5fb1ba176870011765ce5cc2da90d3faccd2b938d1e5369a1acc5cdd"
 metafile = true
@@ -544,6 +579,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "0b069053b252b25d530e693750f5e8480fb54bae7869ecb2319ecc54b850015b"
+metafile = true
+
+[[files]]
+file = "mods/oh-my-sherd.pw.toml"
+hash = "ccebaec672b18ead8643fde463d67d86a737238048d40107f4caad97205b76ad"
 metafile = true
 
 [[files]]
@@ -642,6 +682,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/sherd-duplication.pw.toml"
+hash = "2c3ef8c1b0a8597c6a70a5bca66012bada22a313449ec0257e8b7c8fade97d6d"
+metafile = true
+
+[[files]]
 file = "mods/simple-netherite-horse-armor.pw.toml"
 hash = "7da71ecea87957a8daba22bbd4c93af23ee0e91bb583a30a73a2d94b8db62e6e"
 metafile = true
@@ -649,6 +694,11 @@ metafile = true
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "191cdd445cf61e467693ff8c91732ef0a7b43222e22d77f1fa68b06bfa10aac2"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c784f3be9fec144e706c8ba748443be7dbe073733242eda6beff83361825bbed"
 metafile = true
 
 [[files]]
@@ -717,6 +767,11 @@ hash = "6edc69d7a5b3a4ec1250e91f67609e11fd2f950a53c94275a507ed7d6b419f5c"
 metafile = true
 
 [[files]]
+file = "mods/sweaters.pw.toml"
+hash = "bef233d5404145975b94ede7b0a782640f43e6ad6d02b13ee04453f270d71eac"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "e49b698af06dd3fafabf3bb587d0deb69867ed70e4c935992d9a83ba26e31752"
 metafile = true
@@ -742,6 +797,11 @@ hash = "3bef8cd91dba4a400da8d05499ec7492a6a95be54fa4a682e7be22742397ffa8"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7339995c708e571b7cc43fc30f5e032f072d6a9e3a44a734e81e10021f4dca1e"
+metafile = true
+
+[[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "2241aefdc7579e1dab6262848e458773356fa9c4e8201c8613a6ae2f536a4794"
 metafile = true
@@ -754,6 +814,11 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "3942336a95a1305419b9f1ab7aabd0df1b78d3c7b9c2caf8edef7438fcd1c42b"
+metafile = true
+
+[[files]]
+file = "mods/waxable-coral.pw.toml"
+hash = "e868482b1b6b7b49c310702bb6005700f2a404221551593c98d536cc79b2fa34"
 metafile = true
 
 [[files]]

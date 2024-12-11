@@ -1,0 +1,13 @@
+name = "MonoLib"
+filename = "monolib-neoforge-1.21.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9leXt4A5/versions/ypv0tRYH/monolib-neoforge-1.21.1-1.4.1.jar"
+hash-format = "sha512"
+hash = "d45abe5a18978977e53c78da6cf5f34edc5bf97f24b121990d1a423aa4a5cbac4a7df01ad0e9c2bedc19aa39624729f353da5c5a0586909cf0f5b2e90c73c753"
+
+[update]
+[update.modrinth]
+mod-id = "9leXt4A5"
+version = "ypv0tRYH"
