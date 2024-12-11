@@ -1,13 +1,13 @@
 name = "libIPN"
-filename = "libIPN-neoforge-1.21-6.1.1.jar"
+filename = "libIPN-neoforge-1.21-6.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/onSQdWhM/versions/fXRpgTYg/libIPN-neoforge-1.21-6.1.1.jar"
+url = "https://cdn.modrinth.com/data/onSQdWhM/versions/DehZXTAZ/libIPN-neoforge-1.21-6.2.0.jar"
 hash-format = "sha512"
-hash = "be638254bc545737c8b18fc7cb6cffc9cf2da7596e3090b502611ddfadcf6501fc20b1953eae69ca45230df19637a72f724834f8009fc050f38dfb9202654366"
+hash = "57823083dd1170fd882065dc3cf4096a4ae0a18b091edaa57a98295703fb8c86a163e67970f23fd087c1966ce66c1e8939d8a3d9702f4a80768a82f3917decf3"
 
 [update]
 [update.modrinth]
 mod-id = "onSQdWhM"
-version = "fXRpgTYg"
+version = "DehZXTAZ"

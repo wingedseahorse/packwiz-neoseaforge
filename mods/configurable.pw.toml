@@ -1,13 +1,13 @@
 name = "Configurable"
-filename = "Configurable-2.2.2-neoforge-yarn+1.21.1.jar"
+filename = "Configurable-2.2.3-neoforge-yarn+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/Wq1MDsvR/Configurable-2.2.2-neoforge-yarn%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/xGCKxdz0/Configurable-2.2.3-neoforge-yarn%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "218da1e2e05d55fddb5ecd86b0894471aeb88f4686c292f96ccdc4f1b07f23d10e7d27cd699d7c6425f476bb6c28872ad426457ccbbbec3e8cd421c834696017"
+hash = "15d95cbd6f25ed3237809c5b1057312e965efd62a4fbfb88f086eb272b5afcc1962885a1a44a887819665d27f924ea146c05d54eafcc8aad486804f63b8a4300"
 
 [update]
 [update.modrinth]
 mod-id = "lGffrQ3O"
-version = "Wq1MDsvR"
+version = "xGCKxdz0"
