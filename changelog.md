@@ -7,6 +7,7 @@ additions;
 - armor trim item fix
 - immersive lanterns (can equip to accessories slot for persistent lighting)
 - no enchant block
+- supplementaries :) 
 
 updated;
 - neoforge 21.1.77 -> .86

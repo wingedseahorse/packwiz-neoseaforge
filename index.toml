@@ -762,6 +762,11 @@ hash = "cefe839c869eda199cc16856e0b1a1af76d35f68d35d24d882c2935b56c634da"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "90666aca91cc6788c182b38a6f06e6575b471c1371ffc9e413b712e55dcbe35e"
+metafile = true
+
+[[files]]
 file = "mods/surface-mushrooms.pw.toml"
 hash = "6edc69d7a5b3a4ec1250e91f67609e11fd2f950a53c94275a507ed7d6b419f5c"
 metafile = true
