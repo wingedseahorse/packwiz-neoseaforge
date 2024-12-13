@@ -1,5 +1,6 @@
 # v1.3.0 - 11/12
 additions;
+- ars elixirum
 - sherd duplication
 - oh my sherd
 - waxable coral
