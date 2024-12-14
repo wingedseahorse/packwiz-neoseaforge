@@ -29,10 +29,6 @@ file = "global_packs/required_data/anti ghast grief v1.1.9 (MC 1.21-1.21.3).zip"
 hash = "06c9f415582d8fd1b3f51532727b2929070c440589453e3573655bdc5d7d1e60"
 
 [[files]]
-file = "global_packs/required_data/back v1.3.9 (MC 1.21-1.21.3).zip"
-hash = "ff4778ca8abb8baf0ca5edab1551eddfbb659e0f913d5eee918d620a7c02e7f4"
-
-[[files]]
 file = "global_packs/required_data/cauldron concrete v3.0.2 (MC 1.21-1.21.3).zip"
 hash = "32ca792be71da43865a99e5312e26eda61a15d2337b540f7dfab1a88c0558f2e"
 
@@ -57,10 +53,6 @@ file = "global_packs/required_data/ender chest always drops v1.0.1 (MC 1.21-1.21
 hash = "b1fe9c4f96b29b01c439072f57f689283d4f868a38cb70328e32a30b546a9395"
 
 [[files]]
-file = "global_packs/required_data/homes v1.5.11 (MC 1.21-1.21.3).zip"
-hash = "fc11d90dd7ddf597ca9d64e7dcca7d33651b7a1d396326efb6558241fcf2d1a8"
-
-[[files]]
 file = "global_packs/required_data/kill empty boats v1.1.10 (MC 1.21-1.21.3).zip"
 hash = "ccac185b87932d35b65f32dc1d9b9deedbacc527cd7c9c01abf8db3c34363ef8"
 
@@ -71,14 +63,6 @@ hash = "0944eb5ae4d56aabd96450da030b5c8988ad6b65e9e4b55b4ef3691811d5e3ab"
 [[files]]
 file = "global_packs/required_data/silk touch budding amethyst v1.0.1 (MC 1.21-1.21.3).zip"
 hash = "2703d14745415f4d28c5c5b547567823630bc60f3ca9fd7e09bb1a259c9fd664"
-
-[[files]]
-file = "global_packs/required_data/spawn v2.3.9 (MC 1.21-1.21.3).zip"
-hash = "d81958d36cb00c648f6eca32923aea3f5b987a7c7dd1f3901c521ff9a39353f4"
-
-[[files]]
-file = "global_packs/required_data/tpa v2.3.9 (MC 1.21-1.21.3).zip"
-hash = "789d7c3a78e7a2eaf0d951e236e6e7f6c6e94e3a479fedfa9654385fb9b53e7c"
 
 [[files]]
 file = "global_packs/required_data/track raw statistics v1.7.5 (MC 1.21-1.21.3).zip"
