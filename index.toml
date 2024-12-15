@@ -9,6 +9,10 @@ file = "config/rightclickharvest.json5"
 hash = "36793cb228d971b32facb5c7146c61904585b419ece833769404b0a96b002f77"
 
 [[files]]
+file = "config/tide.toml"
+hash = "019daa1cacf22dedc273755fecd914ecdccc8c9d77da7586b75bdf6a0e312918"
+
+[[files]]
 file = "config/treeharvester.json5"
 hash = "054f4986f028da58e0a5e0bb2e61f18e69a0309ceeef73bbcb98c4563c30328e"
 
